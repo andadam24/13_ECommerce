@@ -65,7 +65,7 @@ router.put('/:id', async (req, res) => {
     res.status(500).json(err);
   }
 
- 
+  // update a category by its `id` value
 });
 
 router.delete('/:id', async (req, res) => {
