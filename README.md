@@ -1,4 +1,11 @@
 # 13_ECommerce
+This app is an example of an e-commerce back end. Some of the technology that was used:
+* node
+* sequelize
+* express
+* Postman
+
+This homework was a bit challenging for me. It required me to reach out to my Tutor, do my own researching, and reach out to the BCS Learning Assistants that come with this bootcamp.
 
 ## User Story
 AS A manager at an internet retail company
